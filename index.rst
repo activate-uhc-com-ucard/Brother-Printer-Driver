@@ -4,7 +4,7 @@ The Simplest Way to Get Started: Brother Printer Driver
 
 A Brother printer driver is essential for your printer to work properly with your computer or mobile device. Without it, your system may not recognize the printer, or features like scanning and wireless printing might not function correctly.
 
-.. image:: BrotherPrinter.png
+.. image:: button.png
    :alt: Brother Printer Driver Setup
    :align: center
 
