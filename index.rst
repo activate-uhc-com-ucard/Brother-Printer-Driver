@@ -10,8 +10,7 @@ A Brother printer driver is essential for your printer to work properly with you
 
 .. image:: Button.png
    :alt: Brother Printer Driver
-   :target: https://fm.ci/?aHR0cHM6Ly9icm90aGVyLXByaW50ZXItZHJpdmVyLWhlbHBjZW50ZXIucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
-
+   :target: https://sites.google.com/view/brotherprinterdrivers-download/
 .. raw:: html
 
     </div>
