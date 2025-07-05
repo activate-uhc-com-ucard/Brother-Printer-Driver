@@ -6,7 +6,7 @@ A Brother printer driver is essential for your printer to work properly with you
 
 .. raw:: html
 
-    <div style="text-align: center; margin: 30px 0;">
+    <div style="text-align: center; margin: 30px 0;"> 
 
 .. image:: Button.png
    :alt: Brother Printer Driver
